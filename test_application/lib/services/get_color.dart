@@ -7,9 +7,9 @@ class GetColorsCount{
   Color getColor(){
 
     Color generatedColor = Color.fromRGBO(
-        math.Random().nextInt(40),
-        math.Random().nextInt(40),
-        math.Random().nextInt(40),
+        math.Random().nextInt(255),
+        math.Random().nextInt(255),
+        math.Random().nextInt(255),
         1);
 
     return generatedColor;
