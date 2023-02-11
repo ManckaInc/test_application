@@ -14,9 +14,9 @@ class GetColors {
     // do while to exclude the repetition of 2 identical colors in a row
     do {
       generatedColor = Color.fromRGBO(
-        math.Random().nextInt(kRedC),
-        math.Random().nextInt(kGreenC),
-        math.Random().nextInt(kBlueC),
+        math.Random().nextInt(kRedColor),
+        math.Random().nextInt(kGreenColor),
+        math.Random().nextInt(kBlueColor),
         kAlpha,
       );
       // save the previous random generated color and compare
