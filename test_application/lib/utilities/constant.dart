@@ -12,7 +12,7 @@ const kCenterTextStyleTCScreen = TextStyle(
 // constant texts
 const kCenterTextTCScreen = 'Hey There';
 
-// constant numbers RGB colors from generation random color
+// constant numbers RGB colors from random color generation
 const int kRedColor = 255;
 const int kGreenColor = 255;
 const int kBlueColor = 255;
