@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 // style text_color_screen
 const kCenterTextStyleTCScreen = TextStyle(
-  color: Color.fromRGBO(0, 0, 0, 1),
+  color: Colors.black,
   fontWeight: FontWeight.w300,
   fontSize: 30.0,
 );
