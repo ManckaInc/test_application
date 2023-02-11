@@ -256,6 +256,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.4"
+  shouldly:
+    dependency: "direct main"
+    description:
+      name: shouldly
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.5.0+1"
   sky_engine:
     dependency: transitive
     description: flutter
